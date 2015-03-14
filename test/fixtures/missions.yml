@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  photo_id: MyString
+  reward: MyString
+  merchant: MyString
+  reward_description: MyText
+
+two:
+  title: MyString
+  description: MyText
+  photo_id: MyString
+  reward: MyString
+  merchant: MyString
+  reward_description: MyText

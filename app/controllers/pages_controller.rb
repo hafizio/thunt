@@ -7,4 +7,7 @@ class PagesController < ApplicationController
     @treasures = ActiveSupport::JSON.decode(@content)
     @result = HashProxy.create_from(@treasures)
   end
+
+  def confirmation
+  end
 end
