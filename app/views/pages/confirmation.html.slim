@@ -1,11 +1,12 @@
 = render 'shared/header', type: 'congratulation', title: "Confirmation", desc: "Show this to merchant"
-.text-center
-  h4 Congrats! You have earned
-  h5 = @mission.reward
-  p = @mission.reward_description
-  
-  p Courtesy of
-  h5 = @mission.merchant
+.container
+  .text-center
+    h4 Congrats! You have earned
+    h1 = @mission.reward
+    .col-md-6.col-md-offset-3
+      .simple-box
+        p = @mission.reward_description
+        p Courtesy of #{@mission.merchant}
 
 .social-media.text-center
   h5 Share with your friends
