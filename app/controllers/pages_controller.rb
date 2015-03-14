@@ -9,5 +9,6 @@ class PagesController < ApplicationController
   end
 
   def confirmation
+    @mission = Mission.find(params[:mission_id])
   end
 end

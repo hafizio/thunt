@@ -7,7 +7,7 @@ class CreateMissions < ActiveRecord::Migration
       t.string :reward
       t.string :merchant
       t.text :reward_description
-      t.string :type
+      t.string :cat
 
       t.timestamps null: false
     end

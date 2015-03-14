@@ -23,7 +23,7 @@ ActiveRecord::Schema.define(version: 20150314083304) do
     t.string   "reward"
     t.string   "merchant"
     t.text     "reward_description"
-    t.string   "type"
+    t.string   "cat"
     t.datetime "created_at",         null: false
     t.datetime "updated_at",         null: false
   end

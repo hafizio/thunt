@@ -4,7 +4,7 @@ Rails.application.routes.draw do
   get 'confirmation', to: 'pages#confirmation',  as: 'confirmation'
 
   resources :foods, only: [:index, :show]
-  resources :shoppings, only: [:index]
+  resources :shoppings, only: [:index, :show]
   resources :entertainments, only: [:index]
   resources :relaxation, only: [:index]
 

@@ -1,0 +1,5 @@
+= render 'shared/header', type: 'shopping', title: 'Mission List', desc: 'Get something'
+.text-center
+  h3 = @mission.title
+  p = @mission.description
+  = link_to 'Submit', confirmation_path(mission_id: @mission.id), class: 'btn btn-default'
