@@ -1,36 +1,36 @@
 .cover-bg
-  .cover-ol
-  .cover
-    .content
-      .container
-        h1 Welcome to Dubai Airport
-        p Discover your next treasure!
-        = link_to 'Start', treasures_path, class: 'btn btn-primary'
+    .cover-ol
+    .cover
+      .content
+        .container-fluid
+          h1.raleway Welcome to Dubai Airport
+          h4.raleway Discover your next treasure!
+          = link_to 'Start', treasures_path, class: 'btn btn-primary'
 
 .container
   .row
-    .col-xs-6
+    .col-sm-12.col-md-6
       .box
         .box-panel.title-panel
           .panel-mask
             = image_tag("shopping-bg.jpg")
-          p.box-title = link_to 'shopping', shoppings_path
-    .col-xs-6
+          p.box-title.raleway = link_to 'shopping', shoppings_path
+    .col-sm-12.col-md-6
       .box
         .box-panel.title-panel
           .panel-mask
             = image_tag("food-bg.jpg")
-          p.box-title = link_to 'food', foods_path
+          p.box-title.raleway = link_to 'food', foods_path
   .row
-    .col-xs-6
+    .col-sm-12.col-md-6
       .box
         .box-panel.title-panel
           .panel-mask
             = image_tag("relax-bg.jpg")
-          p.box-title = link_to 'relax', relaxation_index_path
-    .col-xs-6
+          p.box-title.raleway = link_to 'relax', relaxation_index_path
+    .col-sm-12.col-md-6
       .box
-        .box-panel.title-panel
+        .box-panel.title-panel.raleway
           .panel-mask
             = image_tag("")
           p.box-title = link_to 'entertainment', entertainments_path
