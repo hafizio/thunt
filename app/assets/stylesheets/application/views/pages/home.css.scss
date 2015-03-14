@@ -4,5 +4,34 @@
   background-size: cover;
   height: 350px;
   margin-bottom: 30px;
+
+  .cover-ol {
+    position: absolute;
+    background-color: #242731;
+    width: 100%;
+    height: 100%;
+    opacity: 0.35;
+    filter: alpha(opacity=35);
+    z-index: 1;
+  }
+
+  .cover {
+    position: relative;
+    display: table;
+    height: 364px;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    z-index: 1000;
+
+    .content {
+      min-width: 940px;
+      display: table-cell;
+      vertical-align: middle;
+      text-align: center;
+      color: white;
+    }
+  }
 }
 

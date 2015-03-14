@@ -1,0 +1,45 @@
+.box {
+  height: 280px;
+  margin-bottom: 40px;
+  position: relative;
+
+  .title-panel {
+    background-color: #d8433d;
+    text-transform: uppercase;
+    font-size: 30px;
+    line-height: 38px;
+    font-weight: bold;
+    padding: 30px;
+    z-index: 10;
+  }
+}
+
+.box-panel {
+  width: 100%;
+  position: absolute;
+  display: table;
+  height: inherit;
+
+  .panel-mask {
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: inherit;
+    width: inherit;
+    background: black;
+
+    img {
+      opacity: 0.5;
+    }
+  }
+}
+
+.box-title {
+  opacity: 1;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  color: #fff;
+  position: relative;
+}
