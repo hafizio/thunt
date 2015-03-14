@@ -1,5 +1,5 @@
 class EntertainmentsController < ApplicationController
   def index
-    @content = [1, 2, 3, 4]
+    @missions = Mission.where(cat: 'entertainment').first(6)
   end
 end

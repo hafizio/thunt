@@ -59,6 +59,10 @@
   color: #fff;
   position: relative;
 
+  a {
+    color: white;
+  }
+
   &.discount {
     text-transform: none;
     display: block;
