@@ -6,3 +6,10 @@
   
   p Courtesy of
   h5 = @mission.merchant
+
+.social-media.text-center
+  h5 Share with your friends
+  ul.list-inline
+    li = link_to fa_icon('facebook 3x'), "https://www.facebook.com/sharer.php?u=#{request.original_url}", class: 'share facebook'
+    li = link_to fa_icon('twitter 3x'), "https://twitter.com/intent/tweet?text=#{request.original_url}", class: 'share twitter'
+    li = link_to fa_icon('google-plus 3x'), "https://plus.google.com/share?url=#{request.original_url}", class: 'share google-plus'
