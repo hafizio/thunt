@@ -2,7 +2,12 @@
 .text-center
   h3 = @mission.title
   p = @mission.description
+  - if @mission.id == 15
+    = render 'shared/takephoto'
+  - if @mission.id == 21
+    = render 'shared/radio'
   = link_to 'Submit', confirmation_path(mission_id: @mission.id), class: 'btn btn-success'
 .text-center
   h4 Sponsored Ads
-  p loren
+  p Lorem Adsum
+  
