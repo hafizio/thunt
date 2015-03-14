@@ -1,9 +1,13 @@
 footer#footer {
   position: relative;
-  background-color: rgba(46,48,58,0.96);
+  background-color: #202324;
   margin-top: -200px;
   height: 200px;
   clear: both;
   padding: 20px 0;
   color: white;
+
+  h5 {
+    color: #606B6F;
+  }
 }

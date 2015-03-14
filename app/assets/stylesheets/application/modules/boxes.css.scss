@@ -39,16 +39,12 @@
   padding-top: 40px;
 }
 
-//span.rating {
-  //unicode-bidi: bidi-override;
-  //direction: rtl;
-  //font-size: 30px;
-  
-  //bull
-//}
-
 .dots {
-  font-size: small;
+  font-size: large;
+
+  .fa {
+    padding: 5px;
+  }
 }
 
 .box-title {

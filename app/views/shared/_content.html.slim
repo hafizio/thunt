@@ -9,8 +9,10 @@
           .space
             p.box-title.item = link_to @missions[0].title, mission_path(@missions[0])
             .dots
+              - 2.times do
+                = fa_icon('circle', class: 'yellow')
               - 3.times do
-                = fa_icon('circle', text: 'Level')
+                = fa_icon('circle', class: 'white')
     .col-xs-6
       .box
         .box-panel.title-panel
@@ -22,7 +24,9 @@
             p.box-title.item = link_to @missions[1].title, mission_path(@missions[1])
             .dots
               - 3.times do
-                = fa_icon('circle', text: 'Level')
+                = fa_icon('circle', class: 'green')
+              - 2.times do
+                = fa_icon('circle', class: 'white')
   .row
     .col-xs-6
       .box
@@ -34,8 +38,10 @@
           .space
             p.box-title.item = link_to @missions[2].title, mission_path(@missions[2])
             .dots
-              - 3.times do
-                = fa_icon('circle', text: 'Level')
+              - 4.times do
+                = fa_icon('circle', class: 'red')
+              - 1.times do
+                = fa_icon('circle', class: 'white')
     .col-xs-6
       .box
         .box-panel.title-panel
@@ -45,8 +51,10 @@
           .space
             p.box-title.item = link_to @missions[3].title, mission_path(@missions[3])
             .dots
-              - 3.times do
-                = fa_icon('circle', text: 'Level')
+              - 1.times do
+                = fa_icon('circle', class: 'yellow')
+              - 4.times do
+                = fa_icon('circle', class: 'white')
   .row
     .col-xs-6
       .box
@@ -58,7 +66,9 @@
             p.box-title.item = link_to @missions[4].title, mission_path(@missions[4])
             .dots
               - 3.times do
-                = fa_icon('circle', text: 'Level')
+                = fa_icon('circle', class: 'green')
+              - 2.times do
+                = fa_icon('circle', class: 'white')
     .col-xs-6
       .box
         .box-panel.title-panel
@@ -68,5 +78,7 @@
           .space
             p.box-title.item = link_to @missions[5].title, mission_path(@missions[5])
             .dots
-              - 3.times do
-                = fa_icon('circle', text: 'Level')
+              - 4.times do
+                = fa_icon('circle', class: 'red')
+              - 1.times do
+                = fa_icon('circle', class: 'white')
