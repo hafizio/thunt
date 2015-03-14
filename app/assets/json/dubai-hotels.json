@@ -1,0 +1,719 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 \{\
+  "data": [\
+    \{\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d2138047-m11068-Zagy_Hotel-Dubai_Emirate_of_Dubai.html",\
+      "phone": null,\
+      "web_url": "http://www.tripadvisor.com/Hotel_Review-g295424-d2138047-Reviews-m11068-Zagy_Hotel-Dubai_Emirate_of_Dubai.html",\
+      "percent_recommended": 12,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "location_id": "2138047",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d2138047-m11068-Zagy_Hotel-Dubai_Emirate_of_Dubai.html",\
+      "price_level": "$",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/2138047?key=SingaporeHack-CDCCADCA7505",\
+      "address_obj": \{\
+        "street1": "Al Nakheel Road & Yousuf Baker Road",\
+        "street2": "Deira",\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": "",\
+        "address_string": "Al Nakheel Road & Yousuf Baker Road Deira, Dubai United Arab Emirates"\
+      \},\
+      "category": \{\
+        "name": "hotel",\
+        "localized_name": "Hotel"\
+      \},\
+      "distance": "4.72",\
+      "awards": [],\
+      "subcategory": [\
+        \{\
+          "name": "hotel",\
+          "localized_name": "Hotel"\
+        \}\
+      ],\
+      "num_reviews": "9",\
+      "description": null,\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-11068-5.png",\
+      "name": "Zagy Hotel",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "bearing": "east",\
+      "longitude": "55.21701",\
+      "rating": "3.0",\
+      "latitude": "24.91019",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#400 of 498 hotels in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "498",\
+        "ranking": "400"\
+      \}\
+    \},\
+    \{\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d506233-m11068-Courtyard_Dubai_Green_Community-Dubai_Emirate_of_Dubai.html",\
+      "phone": null,\
+      "web_url": "http://www.tripadvisor.com/Hotel_Review-g295424-d506233-Reviews-m11068-Courtyard_Dubai_Green_Community-Dubai_Emirate_of_Dubai.html",\
+      "percent_recommended": 78,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "location_id": "506233",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d506233-m11068-Courtyard_Dubai_Green_Community-Dubai_Emirate_of_Dubai.html",\
+      "price_level": "$$",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/506233?key=SingaporeHack-CDCCADCA7505",\
+      "address_obj": \{\
+        "street1": "Green Community 101",\
+        "street2": "PO Box 63845",\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": "",\
+        "address_string": "Green Community 101 PO Box 63845, Dubai United Arab Emirates"\
+      \},\
+      "category": \{\
+        "name": "hotel",\
+        "localized_name": "Hotel"\
+      \},\
+      "distance": "7.44",\
+      "awards": [],\
+      "subcategory": [\
+        \{\
+          "name": "hotel",\
+          "localized_name": "Hotel"\
+        \}\
+      ],\
+      "num_reviews": "184",\
+      "description": "Whether your trip to the Emirate Dubai, be it business or pleasure, you will find luxury hotel accommodations with broadband internet access at the Courtyard by Marriott, Dubai, UAE. Located near Dubai Beach in the Green Community and Dubai Investment Park close to Jebel Ali and Dubai Media City. Our hotel offers a great ambience for leisure with fabulous dining options in our restaurants, bar and a 24 hour lobby lounge. Relax and unwind in our outdoor swimming pool or keep fit in our gym. Our well-designed accommodations offer work areas with broadband internet and Marriott revive bedding. Our hotel is the most ideal venue for conferences with broadband internet options. A superb venue to cater for weddings and parties. Easily accessed from Dubai International Airport and Abu Dhabi International Airport, airport transfers available. Welcome to Courtyard by Marriott.",\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-11068-5.png",\
+      "name": "Courtyard Dubai, Green Community",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "bearing": "north",\
+      "longitude": "55.164955",\
+      "rating": "4.0",\
+      "latitude": "25.003498",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#184 of 498 hotels in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "498",\
+        "ranking": "184"\
+      \}\
+    \},\
+    \{\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d589929-m11068-Marriott_Executive_Apartments_Dubai_Green_Community-Dubai_Emirate_of_Dubai.html",\
+      "phone": null,\
+      "web_url": "http://www.tripadvisor.com/Hotel_Review-g295424-d589929-Reviews-m11068-Marriott_Executive_Apartments_Dubai_Green_Community-Dubai_Emirate_of_Dubai.html",\
+      "percent_recommended": 65,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "location_id": "589929",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d589929-m11068-Marriott_Executive_Apartments_Dubai_Green_Community-Dubai_Emirate_of_Dubai.html",\
+      "price_level": "$$$",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/589929?key=SingaporeHack-CDCCADCA7505",\
+      "address_obj": \{\
+        "street1": "37B St, PO Box 63845 ",\
+        "street2": "Dubai Investment Park",\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": "63845",\
+        "address_string": "37B St, PO Box 63845 Dubai Investment Park, Dubai 63845 United Arab Emirates"\
+      \},\
+      "category": \{\
+        "name": "hotel",\
+        "localized_name": "Hotel"\
+      \},\
+      "distance": "7.50",\
+      "awards": [],\
+      "subcategory": [\
+        \{\
+          "name": "hotel",\
+          "localized_name": "Hotel"\
+        \}\
+      ],\
+      "num_reviews": "35",\
+      "description": null,\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-11068-5.png",\
+      "name": "Marriott Executive Apartments Dubai Green Community",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "bearing": "north",\
+      "longitude": "55.1627",\
+      "rating": "4.0",\
+      "latitude": "25.0047",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#272 of 498 hotels in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "498",\
+        "ranking": "272"\
+      \}\
+    \},\
+    \{\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d1053361-m11068-Premier_Inn_Dubai_Investments_Park-Dubai_Emirate_of_Dubai.html",\
+      "phone": "+971 4 811 2810",\
+      "web_url": "http://www.tripadvisor.com/Hotel_Review-g295424-d1053361-Reviews-m11068-Premier_Inn_Dubai_Investments_Park-Dubai_Emirate_of_Dubai.html",\
+      "percent_recommended": 85,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "location_id": "1053361",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d1053361-m11068-Premier_Inn_Dubai_Investments_Park-Dubai_Emirate_of_Dubai.html",\
+      "price_level": "$",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/1053361?key=SingaporeHack-CDCCADCA7505",\
+      "address_obj": \{\
+        "street1": "E311",\
+        "street2": "",\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": "35118",\
+        "address_string": "E311, Dubai 35118 United Arab Emirates"\
+      \},\
+      "category": \{\
+        "name": "hotel",\
+        "localized_name": "Hotel"\
+      \},\
+      "distance": "7.68",\
+      "awards": [\
+        \{\
+          "award_type": "Traveler's Choice",\
+          "year": "2015",\
+          "images": \{\
+            "tiny": "http://www.tripadvisor.com/img/cdsi/img2/awards/tchotel_tiny-11068-5.png",\
+            "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/tchotel_2015_L_R-11068-5.jpg",\
+            "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/TC_2015_downloadable_L_R-11068-5.jpg"\
+          \},\
+          "categories": [\
+            "Bargain"\
+          ],\
+          "display_name": "Traveler's Choice"\
+        \},\
+        \{\
+          "award_type": "Certificate of Excellence",\
+          "year": "2014",\
+          "images": \{\
+            "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-11068-5.jpg",\
+            "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-11068-5.jpg"\
+          \},\
+          "categories": [],\
+          "display_name": "Certificate of Excellence 2014"\
+        \}\
+      ],\
+      "subcategory": [\
+        \{\
+          "name": "hotel",\
+          "localized_name": "Hotel"\
+        \}\
+      ],\
+      "num_reviews": "323",\
+      "description": "Premier Inn Dubai Investments Park is ideal for both business and leisure travellers. Easily accessible from Sh. Mohammed bin Zayed Road, only 20 minutes from Al Maktoum International Airport at Dubai World Cental (DWC).",\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-11068-5.png",\
+      "name": "Premier Inn Dubai Investments Park",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "bearing": "north",\
+      "longitude": "55.156464",\
+      "rating": "4.0",\
+      "latitude": "25.008118",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#121 of 498 hotels in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "498",\
+        "ranking": "121"\
+      \}\
+    \},\
+    \{\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d526588-m11068-Bab_Al_Shams_Desert_Resort_Spa-Dubai_Emirate_of_Dubai.html",\
+      "phone": null,\
+      "web_url": "http://www.tripadvisor.com/Hotel_Review-g295424-d526588-Reviews-m11068-Bab_Al_Shams_Desert_Resort_Spa-Dubai_Emirate_of_Dubai.html",\
+      "percent_recommended": 86,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "location_id": "526588",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d526588-m11068-Bab_Al_Shams_Desert_Resort_Spa-Dubai_Emirate_of_Dubai.html",\
+      "price_level": "$$$$",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/526588?key=SingaporeHack-CDCCADCA7505",\
+      "address_obj": \{\
+        "street1": "International Endurance City, 308th Rd",\
+        "street2": "P.O Box 8168",\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": "",\
+        "address_string": "International Endurance City, 308th Rd P.O Box 8168, Dubai United Arab Emirates"\
+      \},\
+      "category": \{\
+        "name": "hotel",\
+        "localized_name": "Hotel"\
+      \},\
+      "distance": "7.85",\
+      "awards": [\
+        \{\
+          "award_type": "Certificate of Excellence",\
+          "year": "2014",\
+          "images": \{\
+            "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-11068-5.jpg",\
+            "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-11068-5.jpg"\
+          \},\
+          "categories": [],\
+          "display_name": "Certificate of Excellence 2014"\
+        \}\
+      ],\
+      "subcategory": [\
+        \{\
+          "name": "hotel",\
+          "localized_name": "Hotel"\
+        \}\
+      ],\
+      "num_reviews": "957",\
+      "description": "Translated from Arabic as \\"Gateway to the sun\\", the *award-winning 5-star Bab Al Shams Desert Resort & Spa is designed to resemble a fortified rural Arab village amidst the desert landscape. Featuring low-rise architecture, this sandy coloured style fort boasts the main tower with Reception area and lobby and clusters of two-storey buildings housing guest accommodation, restaurants, spa and meeting facilities interconnected by seemingly endless little walkways. The charm of Arabia is personified in every corner of the property with small lanes running through the hotel, scattered around ponds and secluded seating areas, shaded courtyards, water fountains and trickling streams bestowing the feel of cool tranquillity. The abundance of green garden areas and manicured lawns adds to the quiet and soothing environment of the resort. \\n\\nThe rustic Arabian theme of exterior design continues to flow in the carefully selected interior decorations and settings featuring uncovered natural stone floors, bare plastered walls, dark wood and iron fixtures, warm dimmed lighting and an abundance of artefacts showcased throughout the property. \\n\\nThe resort boasts 113 rooms and suites offering cosy accommodation in an authentic Arabian style with majority of the rooms having a private terrace. All guest rooms and public areas have complimentary Wi-Fi access.\\n\\n*World's Leading Desert Resort, World Travel Awards.",\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-11068-5.png",\
+      "name": "Bab Al Shams Desert Resort & Spa",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "bearing": "southeast",\
+      "longitude": "55.23",\
+      "rating": "4.5",\
+      "latitude": "24.816166",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#58 of 498 hotels in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "498",\
+        "ranking": "58"\
+      \}\
+    \},\
+    \{\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g294013-d2253175-m11068-Emirates_Plaza_Hotel-Abu_Dhabi_Emirate_of_Abu_Dhabi.html",\
+      "phone": null,\
+      "web_url": "http://www.tripadvisor.com/Hotel_Review-g294013-d2253175-Reviews-m11068-Emirates_Plaza_Hotel-Abu_Dhabi_Emirate_of_Abu_Dhabi.html",\
+      "percent_recommended": 50,\
+      "location_string": "Abu Dhabi, Emirate of Abu Dhabi",\
+      "location_id": "2253175",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g294013-d2253175-m11068-Emirates_Plaza_Hotel-Abu_Dhabi_Emirate_of_Abu_Dhabi.html",\
+      "price_level": "$$",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/2253175?key=SingaporeHack-CDCCADCA7505",\
+      "address_obj": \{\
+        "street1": "3rd St",\
+        "street2": "",\
+        "city": "Abu Dhabi",\
+        "state": "Emirate of Abu Dhabi",\
+        "country": "United Arab Emirates",\
+        "postalcode": "",\
+        "address_string": "3rd St, Abu Dhabi United Arab Emirates"\
+      \},\
+      "category": \{\
+        "name": "hotel",\
+        "localized_name": "Hotel"\
+      \},\
+      "distance": "9.25",\
+      "awards": [],\
+      "subcategory": [\
+        \{\
+          "name": "hotel",\
+          "localized_name": "Hotel"\
+        \}\
+      ],\
+      "num_reviews": "10",\
+      "description": null,\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-11068-5.png",\
+      "name": "Emirates Plaza Hotel",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Abu Dhabi",\
+          "location_id": "294013"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Abu Dhabi",\
+          "location_id": "2630227"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "bearing": "northwest",\
+      "longitude": "55.06754",\
+      "rating": "3.0",\
+      "latitude": "25.012613",\
+      "ranking_data": \{\
+        "geo_location_id": "294013",\
+        "ranking_string": "#101 of 121 hotels in Abu Dhabi",\
+        "geo_location_name": "Abu Dhabi",\
+        "ranking_out_of": "121",\
+        "ranking": "101"\
+      \}\
+    \},\
+    \{\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d575718-m11068-JA_Palm_Tree_Court-Dubai_Emirate_of_Dubai.html",\
+      "phone": null,\
+      "web_url": "http://www.tripadvisor.com/Hotel_Review-g295424-d575718-Reviews-m11068-JA_Palm_Tree_Court-Dubai_Emirate_of_Dubai.html",\
+      "percent_recommended": 93,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "location_id": "575718",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d575718-m11068-JA_Palm_Tree_Court-Dubai_Emirate_of_Dubai.html",\
+      "price_level": "$$$$",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/575718?key=SingaporeHack-CDCCADCA7505",\
+      "address_obj": \{\
+        "street1": "Tariq Bin Ziyad Rd",\
+        "street2": "PO Box 9255   ",\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": "",\
+        "address_string": "Tariq Bin Ziyad Rd PO Box 9255, Dubai United Arab Emirates"\
+      \},\
+      "category": \{\
+        "name": "hotel",\
+        "localized_name": "Hotel"\
+      \},\
+      "distance": "9.77",\
+      "awards": [\
+        \{\
+          "award_type": "Traveler's Choice",\
+          "year": "2015",\
+          "images": \{\
+            "tiny": "http://www.tripadvisor.com/img/cdsi/img2/awards/tchotel_tiny-11068-5.png",\
+            "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/tchotel_2015_L_R-11068-5.jpg",\
+            "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/TC_2015_downloadable_L_R-11068-5.jpg"\
+          \},\
+          "categories": [\
+            "Best Service",\
+            "Family",\
+            "Top Hotels",\
+            "Luxury"\
+          ],\
+          "display_name": "Traveler's Choice"\
+        \},\
+        \{\
+          "award_type": "Certificate of Excellence",\
+          "year": "2014",\
+          "images": \{\
+            "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-11068-5.jpg",\
+            "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-11068-5.jpg"\
+          \},\
+          "categories": [],\
+          "display_name": "Certificate of Excellence 2014"\
+        \}\
+      ],\
+      "subcategory": [\
+        \{\
+          "name": "hotel",\
+          "localized_name": "Hotel"\
+        \}\
+      ],\
+      "num_reviews": "979",\
+      "description": "The luxurious Palm Tree Court & Spa (a member of 'The Leading Hotels of the World') is situated within the award-winning Jebel Ali Golf Resort & Spa. A stunning palm-lined private beach and three swimming pools are just steps away from the suites and junior suites, surrounded by lush gardens, waterfalls and fish-filled streams.  A championship 9-hole golf course, academy, spa, restaurants, bars, kids club, deep-sea fishing trips and horse riding can also be enjoyed.",\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-11068-5.png",\
+      "name": "JA Palm Tree Court",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "bearing": "northwest",\
+      "longitude": "55.019867",\
+      "rating": "4.5",\
+      "latitude": "24.98429",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#11 of 498 hotels in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "498",\
+        "ranking": "11"\
+      \}\
+    \},\
+    \{\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d302792-m11068-JA_Jebel_Ali_Beach_Hotel-Dubai_Emirate_of_Dubai.html",\
+      "phone": null,\
+      "web_url": "http://www.tripadvisor.com/Hotel_Review-g295424-d302792-Reviews-m11068-JA_Jebel_Ali_Beach_Hotel-Dubai_Emirate_of_Dubai.html",\
+      "percent_recommended": 88,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "location_id": "302792",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d302792-m11068-JA_Jebel_Ali_Beach_Hotel-Dubai_Emirate_of_Dubai.html",\
+      "price_level": "$$$$",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/302792?key=SingaporeHack-CDCCADCA7505",\
+      "address_obj": \{\
+        "street1": "Exit 13, Mina Jebel Ali",\
+        "street2": "PO Box 9255",\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": "",\
+        "address_string": "Exit 13, Mina Jebel Ali PO Box 9255, Dubai United Arab Emirates"\
+      \},\
+      "category": \{\
+        "name": "hotel",\
+        "localized_name": "Hotel"\
+      \},\
+      "distance": "9.82",\
+      "awards": [\
+        \{\
+          "award_type": "Certificate of Excellence",\
+          "year": "2014",\
+          "images": \{\
+            "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-11068-5.jpg",\
+            "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-11068-5.jpg"\
+          \},\
+          "categories": [],\
+          "display_name": "Certificate of Excellence 2014"\
+        \}\
+      ],\
+      "subcategory": [\
+        \{\
+          "name": "hotel",\
+          "localized_name": "Hotel"\
+        \}\
+      ],\
+      "num_reviews": "1557",\
+      "description": "Situated on the golden shores of the Arabian Gulf, the Jebel Ali Beach Hotel at the award-winning Jebel Ali Golf Resort features 231 standard rooms and suites over 5 floors. In addition to the palm-lined private beach and temperature-controlled swimming pools, the resort also features a 9-hole golf course with golf academy, 80-berth marina, horse riding stables, a variety of different restaurants and bars and The Spa, a purpose-built wellness facility overlooking the beach.",\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-11068-5.png",\
+      "name": "JA Jebel Ali Beach Hotel",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "bearing": "northwest",\
+      "longitude": "55.022655",\
+      "rating": "4.5",\
+      "latitude": "24.988556",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#41 of 498 hotels in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "498",\
+        "ranking": "41"\
+      \}\
+    \},\
+    \{\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d1823675-m11068-Movenpick_Hotel_Ibn_Battuta_Gate_Dubai-Dubai_Emirate_of_Dubai.html",\
+      "phone": null,\
+      "web_url": "http://www.tripadvisor.com/Hotel_Review-g295424-d1823675-Reviews-m11068-Movenpick_Hotel_Ibn_Battuta_Gate_Dubai-Dubai_Emirate_of_Dubai.html",\
+      "percent_recommended": 93,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "location_id": "1823675",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d1823675-m11068-Movenpick_Hotel_Ibn_Battuta_Gate_Dubai-Dubai_Emirate_of_Dubai.html",\
+      "price_level": "$$$",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/1823675?key=SingaporeHack-CDCCADCA7505",\
+      "address_obj": \{\
+        "street1": "Sheikh Zayed Road",\
+        "street2": "Adjacent to Ibn Battuta Shopping Mall",\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": "",\
+        "address_string": "Sheikh Zayed Road Adjacent to Ibn Battuta Shopping Mall, Dubai United Arab Emirates"\
+      \},\
+      "category": \{\
+        "name": "hotel",\
+        "localized_name": "Hotel"\
+      \},\
+      "distance": "10.04",\
+      "awards": [\
+        \{\
+          "award_type": "Traveler's Choice",\
+          "year": "2015",\
+          "images": \{\
+            "tiny": "http://www.tripadvisor.com/img/cdsi/img2/awards/tchotel_tiny-11068-5.png",\
+            "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/tchotel_2015_L_R-11068-5.jpg",\
+            "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/TC_2015_downloadable_L_R-11068-5.jpg"\
+          \},\
+          "categories": [\
+            "Best Service",\
+            "Top Hotels",\
+            "Luxury"\
+          ],\
+          "display_name": "Traveler's Choice"\
+        \},\
+        \{\
+          "award_type": "Certificate of Excellence",\
+          "year": "2014",\
+          "images": \{\
+            "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-11068-5.jpg",\
+            "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-11068-5.jpg"\
+          \},\
+          "categories": [],\
+          "display_name": "Certificate of Excellence 2014"\
+        \}\
+      ],\
+      "subcategory": [\
+        \{\
+          "name": "hotel",\
+          "localized_name": "Hotel"\
+        \}\
+      ],\
+      "num_reviews": "2016",\
+      "description": "M\'f6venpick Hotel Ibn Battuta Gate Dubai features a statuesque gateway that is larger than the \'91Arc de Triomphe\'92 in Paris. The 396-room hotel is located next to Ibn Battuta Mall and Cineplex at the very heart of \'91New Dubai\'92. Inspired by the travels of the 14th century Arabian explorer, Ibn Battuta Gate Hotel\'92s Grand Hall features 88 enormous eastern-style lanterns and it is also the \'91gateway\'92 to the hotel\'92s equally iconic six restaurants. The Ibn Battuta Gate Hotel offers a true \'91design and taste journey\'92 that spans the Near East, Far East, Middle East and Arab-African radius our namesake travelled through in his epic 30-year journey. The hotel has 6 restaurants including a Chinese, Indian and Italian. There is a nightclub and supper club on the property discretely positioned. Our sister property, Oceana Beach Club, is located on the Palm Jumeirah with swimming pools, a lazy river and private beach. We offer complimentary shuttles to and from the Club.",\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-11068-5.png",\
+      "name": "Movenpick Hotel Ibn Battuta Gate Dubai",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "bearing": "north",\
+      "longitude": "55.115807",\
+      "rating": "4.5",\
+      "latitude": "25.040777",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#7 of 498 hotels in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "498",\
+        "ranking": "7"\
+      \}\
+    \}\
+  ],\
+  "paging": \{\
+    "previous": null,\
+    "skipped": "0",\
+    "results": "9",\
+    "next": null,\
+    "total_results": "9"\
+  \}\
+\}}

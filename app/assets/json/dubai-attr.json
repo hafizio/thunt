@@ -1,0 +1,895 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 \{\
+  "data": [\
+    \{\
+      "phone": "971 4 368 5070",\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d4257274-m11068-The_Nail_Spa-Dubai_Emirate_of_Dubai.html",\
+      "address_obj": \{\
+        "street1": "Ibn Battuta Mall, Sheikh Zayed Road, 5th Interchange, Jebel Ali Village",\
+        "street2": "Tunisia Court, next to Starbucks",\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Ibn Battuta Mall, Sheikh Zayed Road, 5th Interchange, Jebel Ali Village Tunisia Court, next to Starbucks, Dubai United Arab Emirates"\
+      \},\
+      "distance": "5.79",\
+      "wikipedia_info": null,\
+      "description": null,\
+      "name": "The Nail Spa",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.079784",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d4257274-m11068-The_Nail_Spa-Dubai_Emirate_of_Dubai.html",\
+      "attraction_types": [\
+        \{\
+          "localized_name": "Spas",\
+          "name": "spas"\
+        \}\
+      ],\
+      "website": "http://www.thenailspa.com/",\
+      "web_url": "http://www.tripadvisor.com/Attraction_Review-g295424-d4257274-Reviews-m11068-The_Nail_Spa-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "4257274",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/4257274?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "attraction",\
+        "localized_name": "Attraction"\
+      \},\
+      "email": "thenailspa.ibm@nailspa.ae",\
+      "num_reviews": "0",\
+      "subcategory": [\
+        \{\
+          "name": "activities",\
+          "localized_name": "Activities"\
+        \},\
+        \{\
+          "name": "wellness_spas",\
+          "localized_name": "Wellness Spas"\
+        \}\
+      ],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "northwest",\
+      "latitude": "24.95864",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": null,\
+      "percent_recommended": 88,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d4096557-m11068-Jebel_Ali_Shooting_Club-Dubai_Emirate_of_Dubai.html",\
+      "address_obj": \{\
+        "street1": "Mina Jebel Ali",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Mina Jebel Ali, Dubai United Arab Emirates"\
+      \},\
+      "distance": "8.04",\
+      "wikipedia_info": null,\
+      "description": null,\
+      "name": "Jebel Ali Shooting Club",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.034332",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d4096557-m11068-Jebel_Ali_Shooting_Club-Dubai_Emirate_of_Dubai.html",\
+      "attraction_types": [\
+        \{\
+          "localized_name": "Shooting ranges",\
+          "name": "shooting ranges"\
+        \}\
+      ],\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Attraction_Review-g295424-d4096557-Reviews-m11068-Jebel_Ali_Shooting_Club-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "4096557",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/4096557?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "attraction",\
+        "localized_name": "Attraction"\
+      \},\
+      "email": null,\
+      "num_reviews": "27",\
+      "subcategory": [\
+        \{\
+          "name": "activities",\
+          "localized_name": "Activities"\
+        \},\
+        \{\
+          "name": "fun_games",\
+          "localized_name": "Fun and Games"\
+        \}\
+      ],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-11068-5.png",\
+      "bearing": "northwest",\
+      "latitude": "24.959167",\
+      "rating": "4.5",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#95 of 466 activities in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "466",\
+        "ranking": "95"\
+      \}\
+    \},\
+    \{\
+      "phone": "+971 4 375 9999",\
+      "percent_recommended": 83,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d4222213-m11068-Jumeirah_Golf_Estates-Dubai_Emirate_of_Dubai.html",\
+      "address_obj": \{\
+        "street1": "Jumeirah Golf Estates",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Jumeirah Golf Estates, Dubai United Arab Emirates"\
+      \},\
+      "distance": "9.15",\
+      "wikipedia_info": \{\
+        "pageid": "13442971",\
+        "language": "en",\
+        "url": "http://en.wikipedia.org/w/index.php?curid=13442971"\
+      \},\
+      "description": "One of the UAE's great golf resorts with two 18-hole championship Greg Norman-designed golf courses, Fire & Earth. \\n\\nJumeirah Golf Estates is home to the DP World Tour Championship, the season ending finale of the Race to Dubai, where Europe's finest professional golfers compete for one of golf's richest prizes.\\n\\nAlso within the resort is the European Tour Performance Institute at Jumeirah Golf Estates. This a centre of excellence for golf tuition with a complete holistic approach to this great game.",\
+      "name": "Jumeirah Golf Estates",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.201065",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d4222213-m11068-Jumeirah_Golf_Estates-Dubai_Emirate_of_Dubai.html",\
+      "attraction_types": [\
+        \{\
+          "localized_name": "Golf courses",\
+          "name": "golf courses"\
+        \}\
+      ],\
+      "website": "http://www.jumeirahgolfestates.com/",\
+      "web_url": "http://www.tripadvisor.com/Attraction_Review-g295424-d4222213-Reviews-m11068-Jumeirah_Golf_Estates-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "4222213",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/4222213?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "attraction",\
+        "localized_name": "Attraction"\
+      \},\
+      "email": "info@jumeirahgolfestates.com",\
+      "num_reviews": "18",\
+      "subcategory": [\
+        \{\
+          "name": "outdoor_activities",\
+          "localized_name": "Outdoor Activities"\
+        \},\
+        \{\
+          "name": "activities",\
+          "localized_name": "Activities"\
+        \}\
+      ],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-11068-5.png",\
+      "bearing": "northeast",\
+      "latitude": "25.019207",\
+      "rating": "4.5",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#89 of 466 activities in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "466",\
+        "ranking": "89"\
+      \}\
+    \},\
+    \{\
+      "phone": "0509666401",\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d2624837-m11068-Diablo_Nightclub-Dubai_Emirate_of_Dubai.html",\
+      "address_obj": \{\
+        "street1": "Ibn Battuta Hotel",\
+        "street2": "",\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": "",\
+        "address_string": "Ibn Battuta Hotel, Dubai United Arab Emirates"\
+      \},\
+      "distance": "10.10",\
+      "wikipedia_info": null,\
+      "description": null,\
+      "name": "Diablo Nightclub",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.115513",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d2624837-m11068-Diablo_Nightclub-Dubai_Emirate_of_Dubai.html",\
+      "attraction_types": [\
+        \{\
+          "localized_name": "Bars & clubs",\
+          "name": "bar/ clubs"\
+        \}\
+      ],\
+      "website": "http://www.diablonightclub.com/",\
+      "web_url": "http://www.tripadvisor.com/Attraction_Review-g295424-d2624837-Reviews-m11068-Diablo_Nightclub-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "2624837",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/2624837?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "attraction",\
+        "localized_name": "Attraction"\
+      \},\
+      "email": "contact@diablonightclub.com/",\
+      "num_reviews": "2",\
+      "subcategory": [\
+        \{\
+          "name": "nightlife",\
+          "localized_name": "Nightlife"\
+        \}\
+      ],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-11068-5.png",\
+      "bearing": "north",\
+      "latitude": "25.041573",\
+      "rating": "3.0",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#24 of 29 nightlife in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "29",\
+        "ranking": "24"\
+      \}\
+    \},\
+    \{\
+      "phone": null,\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3672100-m11068-Cash_Club-Dubai_Emirate_of_Dubai.html",\
+      "address_obj": \{\
+        "street1": "IBN Batuta Gate Hotel",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "IBN Batuta Gate Hotel, Dubai United Arab Emirates"\
+      \},\
+      "distance": "10.12",\
+      "wikipedia_info": null,\
+      "description": null,\
+      "name": "Cash Club",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.115448",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3672100-m11068-Cash_Club-Dubai_Emirate_of_Dubai.html",\
+      "attraction_types": [\
+        \{\
+          "localized_name": "Dance clubs & discos",\
+          "name": "dance club/ discos"\
+        \}\
+      ],\
+      "website": "http://www.cashnightclub.com",\
+      "web_url": "http://www.tripadvisor.com/Attraction_Review-g295424-d3672100-Reviews-m11068-Cash_Club-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3672100",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3672100?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "attraction",\
+        "localized_name": "Attraction"\
+      \},\
+      "email": null,\
+      "num_reviews": "4",\
+      "subcategory": [\
+        \{\
+          "name": "nightlife",\
+          "localized_name": "Nightlife"\
+        \}\
+      ],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/2.5-11068-5.png",\
+      "bearing": "north",\
+      "latitude": "25.042002",\
+      "rating": "2.5",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#27 of 29 nightlife in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "29",\
+        "ranking": "27"\
+      \}\
+    \},\
+    \{\
+      "phone": "971 4 366  9956",\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d4235943-m11068-Feet_First_Reflexology_Massage_Centre-Dubai_Emirate_of_Dubai.html",\
+      "address_obj": \{\
+        "street1": "Ibn Battuta Mall, Sheikh Zayed Road, 5th Interchange, Jebel Ali",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Ibn Battuta Mall, Sheikh Zayed Road, 5th Interchange, Jebel Ali, Dubai United Arab Emirates"\
+      \},\
+      "distance": "10.15",\
+      "wikipedia_info": null,\
+      "description": null,\
+      "name": "Feet First Reflexology & Massage Centre",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.11284",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d4235943-m11068-Feet_First_Reflexology_Massage_Centre-Dubai_Emirate_of_Dubai.html",\
+      "attraction_types": [\
+        \{\
+          "localized_name": "Spas",\
+          "name": "spas"\
+        \}\
+      ],\
+      "website": "http://www.feet1st.com",\
+      "web_url": "http://www.tripadvisor.com/Attraction_Review-g295424-d4235943-Reviews-m11068-Feet_First_Reflexology_Massage_Centre-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "4235943",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/4235943?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "attraction",\
+        "localized_name": "Attraction"\
+      \},\
+      "email": "info@feet1st.com",\
+      "num_reviews": "3",\
+      "subcategory": [\
+        \{\
+          "name": "activities",\
+          "localized_name": "Activities"\
+        \},\
+        \{\
+          "name": "wellness_spas",\
+          "localized_name": "Wellness Spas"\
+        \}\
+      ],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-11068-5.png",\
+      "bearing": "north",\
+      "latitude": "25.042",\
+      "rating": "4.5",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#182 of 466 activities in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "466",\
+        "ranking": "182"\
+      \}\
+    \},\
+    \{\
+      "phone": "+971 55 953 2064",\
+      "percent_recommended": 96,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3693234-m11068-Prestige_Motorcycle_Tours_Rentals_Day_Tours-Dubai_Emirate_of_Dubai.html",\
+      "address_obj": \{\
+        "street1": "European Business Centre, Shop 28",\
+        "street2": "Dubai Investment Park (The Green Community)",\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "European Business Centre, Shop 28 Dubai Investment Park (The Green Community), Dubai United Arab Emirates"\
+      \},\
+      "distance": "10.52",\
+      "wikipedia_info": null,\
+      "description": "Ride A Harley-Davidson, Honda Goldwing, BMW in the United Arab Emirates. Prestige, Dubai's Motorcycle Tour and Bike Rental Company is for visitors and Gulf residents alike. You can choose an all-inclusive motorcycle vacation or simply rent a bike, with or without a tour guide. Dubai, the perfect motorcycle holiday playground for those who want an upscale motorcycle vacation. Welcome to the United Arab Emirates, world famous for Sun, Sand, Sea, Shopping...and now, motorcycle vacation tours.",\
+      "name": "Prestige Motorcycle Tours & Rentals- Day Tours",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.198288",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3693234-m11068-Prestige_Motorcycle_Tours_Rentals_Day_Tours-Dubai_Emirate_of_Dubai.html",\
+      "attraction_types": [\
+        \{\
+          "localized_name": "Motorcycle tours",\
+          "name": "motorcycle tours"\
+        \}\
+      ],\
+      "website": "http://www.dubaimotorcycletours.com/",\
+      "web_url": "http://www.tripadvisor.com/Attraction_Review-g295424-d3693234-Reviews-m11068-Prestige_Motorcycle_Tours_Rentals_Day_Tours-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3693234",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3693234?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "attraction",\
+        "localized_name": "Attraction"\
+      \},\
+      "email": "info@dubaimotorcycletours.com",\
+      "num_reviews": "66",\
+      "subcategory": [\
+        \{\
+          "name": "sightseeing_tours",\
+          "localized_name": "Sightseeing Tours"\
+        \},\
+        \{\
+          "name": "activities",\
+          "localized_name": "Activities"\
+        \}\
+      ],\
+      "awards": [\
+        \{\
+          "award_type": "Certificate of Excellence",\
+          "year": "2014",\
+          "images": \{\
+            "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-11068-5.jpg",\
+            "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-11068-5.jpg"\
+          \},\
+          "categories": [],\
+          "display_name": "Certificate of Excellence 2014"\
+        \}\
+      ],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-11068-5.png",\
+      "bearing": "north",\
+      "latitude": "25.041344",\
+      "rating": "5.0",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#27 of 466 activities in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "466",\
+        "ranking": "27"\
+      \}\
+    \},\
+    \{\
+      "phone": "4 4251000",\
+      "percent_recommended": 100,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d4817302-m11068-The_Els_Club-Dubai_Emirate_of_Dubai.html",\
+      "address_obj": \{\
+        "street1": "Sports City",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Sports City, Dubai United Arab Emirates"\
+      \},\
+      "distance": "10.95",\
+      "wikipedia_info": null,\
+      "description": null,\
+      "name": "The Els Club",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.21491",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d4817302-m11068-The_Els_Club-Dubai_Emirate_of_Dubai.html",\
+      "attraction_types": [\
+        \{\
+          "localized_name": "Other outdoor activities",\
+          "name": "other outdoor activities"\
+        \}\
+      ],\
+      "website": "http://www.elsclubdubai.com/VisitorInfo/Default.aspx",\
+      "web_url": "http://www.tripadvisor.com/Attraction_Review-g295424-d4817302-Reviews-m11068-The_Els_Club-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "4817302",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/4817302?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "attraction",\
+        "localized_name": "Attraction"\
+      \},\
+      "email": null,\
+      "num_reviews": "13",\
+      "subcategory": [\
+        \{\
+          "name": "outdoor_activities",\
+          "localized_name": "Outdoor Activities"\
+        \},\
+        \{\
+          "name": "activities",\
+          "localized_name": "Activities"\
+        \}\
+      ],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-11068-5.png",\
+      "bearing": "northeast",\
+      "latitude": "25.042145",\
+      "rating": "5.0",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#77 of 466 activities in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "466",\
+        "ranking": "77"\
+      \}\
+    \},\
+    \{\
+      "phone": "+971 50 600 8113",\
+      "percent_recommended": 100,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d4952953-m11068-Azure_Charters-Dubai_Emirate_of_Dubai.html",\
+      "address_obj": \{\
+        "street1": "Dubai International Marine Club",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": "38471",\
+        "address_string": "Dubai International Marine Club, Dubai 38471 United Arab Emirates"\
+      \},\
+      "distance": "11.07",\
+      "wikipedia_info": null,\
+      "description": "Welcome Aboard...\\n\\nLet us take you on a unique charter, onboard our beautiful Turkish gulet Azure.\\n\\nWhether you have a family celebration, simply want to escape the city with friends, or perhaps explore the UAE coastline, please feel free to talk to us!\\n\\nWe can welcome up to 27 passengers. Captain and crew, insurance, fuel, water and soft drinks are all complimentary.\\n\\nIf you have any special requirements or requests, then please let us know and we will look to work with you to make your day perfect.\\n\\nYou will be sure to disembark with memories that will last far longer than your day's charter!",\
+      "name": "Azure Charters",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.226665",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d4952953-m11068-Azure_Charters-Dubai_Emirate_of_Dubai.html",\
+      "attraction_types": [\
+        \{\
+          "localized_name": "Other outdoor activities",\
+          "name": "other outdoor activities"\
+        \}\
+      ],\
+      "website": "http://www.azurecharters.com",\
+      "web_url": "http://www.tripadvisor.com/Attraction_Review-g295424-d4952953-Reviews-m11068-Azure_Charters-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "4952953",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/4952953?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "attraction",\
+        "localized_name": "Attraction"\
+      \},\
+      "email": "enquiries@azurecharters.com",\
+      "num_reviews": "20",\
+      "subcategory": [\
+        \{\
+          "name": "outdoor_activities",\
+          "localized_name": "Outdoor Activities"\
+        \},\
+        \{\
+          "name": "activities",\
+          "localized_name": "Activities"\
+        \}\
+      ],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-11068-5.png",\
+      "bearing": "northeast",\
+      "latitude": "25.038816",\
+      "rating": "5.0",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#40 of 466 activities in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "466",\
+        "ranking": "40"\
+      \}\
+    \},\
+    \{\
+      "phone": "04-2632774",\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d4221739-m11068-Fantasy_Kingdom-Dubai_Emirate_of_Dubai.html",\
+      "address_obj": \{\
+        "street1": "Al Bustan Centre & Residence, Al Nahda Road, Al Qusais 1",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Bustan Centre & Residence, Al Nahda Road, Al Qusais 1, Dubai United Arab Emirates"\
+      \},\
+      "distance": "11.95",\
+      "wikipedia_info": null,\
+      "description": null,\
+      "name": "Fantasy Kingdom",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.27854",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d4221739-m11068-Fantasy_Kingdom-Dubai_Emirate_of_Dubai.html",\
+      "attraction_types": [\
+        \{\
+          "localized_name": "Amusement & theme parks",\
+          "name": "amusement/ theme parks"\
+        \}\
+      ],\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Attraction_Review-g295424-d4221739-Reviews-m11068-Fantasy_Kingdom-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "4221739",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/4221739?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "attraction",\
+        "localized_name": "Attraction"\
+      \},\
+      "email": null,\
+      "num_reviews": "1",\
+      "subcategory": [\
+        \{\
+          "name": "attractions",\
+          "localized_name": "Attractions"\
+        \},\
+        \{\
+          "name": "amusement_parks",\
+          "localized_name": "Amusement Parks"\
+        \}\
+      ],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-11068-5.png",\
+      "bearing": "northeast",\
+      "latitude": "25.01932",\
+      "rating": "5.0",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#59 of 93 attractions in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "93",\
+        "ranking": "59"\
+      \}\
+    \},\
+    \{\
+      "phone": null,\
+      "percent_recommended": 100,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d5994038-m11068-Al_Qudra_Cycle_Path-Dubai_Emirate_of_Dubai.html",\
+      "address_obj": \{\
+        "street1": "Al Qudra Road",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Qudra Road, Dubai United Arab Emirates"\
+      \},\
+      "distance": "12.22",\
+      "wikipedia_info": null,\
+      "description": null,\
+      "name": "Al Qudra Cycle Path",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.286194",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d5994038-m11068-Al_Qudra_Cycle_Path-Dubai_Emirate_of_Dubai.html",\
+      "attraction_types": [\
+        \{\
+          "localized_name": "Biking trails",\
+          "name": "biking trails"\
+        \}\
+      ],\
+      "website": "http://www.dubairoadsters.com/events_safeplacetoride.html#two",\
+      "web_url": "http://www.tripadvisor.com/Attraction_Review-g295424-d5994038-Reviews-m11068-Al_Qudra_Cycle_Path-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "5994038",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/5994038?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "attraction",\
+        "localized_name": "Attraction"\
+      \},\
+      "email": null,\
+      "num_reviews": "15",\
+      "subcategory": [\
+        \{\
+          "name": "nature_parks",\
+          "localized_name": "Nature and Parks"\
+        \},\
+        \{\
+          "name": "outdoor_activities",\
+          "localized_name": "Outdoor Activities"\
+        \},\
+        \{\
+          "name": "activities",\
+          "localized_name": "Activities"\
+        \},\
+        \{\
+          "name": "attractions",\
+          "localized_name": "Attractions"\
+        \}\
+      ],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-11068-5.png",\
+      "bearing": "northeast",\
+      "latitude": "25.017725",\
+      "rating": "5.0",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#47 of 466 activities in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "466",\
+        "ranking": "47"\
+      \}\
+    \}\
+  ],\
+  "paging": \{\
+    "previous": null,\
+    "skipped": "0",\
+    "results": "11",\
+    "next": null,\
+    "total_results": "11"\
+  \}\
+\}}
