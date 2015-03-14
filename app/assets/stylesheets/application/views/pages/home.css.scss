@@ -5,20 +5,24 @@
   height: 350px;
   margin-bottom: 30px;
   
-  #food {
+  &#food {
+    background: #312429 image-url('page_food_bg.jpg') no-repeat center center;
+  }
+
+  &#shopping {
     background: #312429 image-url('logo_emirates.png') no-repeat center center;
   }
 
-  #shopping {
+  &#relaxation {
     background: #312429 image-url('logo_emirates.png') no-repeat center center;
   }
 
-  #relaxation {
+  &#entertainment {
     background: #312429 image-url('logo_emirates.png') no-repeat center center;
   }
 
-  #entertainment {
-    background: #312429 image-url('logo_emirates.png') no-repeat center center;
+  &#congratulation {
+    background: #312429 image-url('page_congratulation_bg.jpg') no-repeat center center;
   }
 
   .cover-ol {
