@@ -5,3 +5,36 @@
       .container#foods
         h1 Mission List
         p get something
+
+.container
+  .row
+    .col-xs-6
+      .box
+        .box-panel.title-panel
+          .panel-mask
+            = image_tag("")
+          p.box-title.discount 20% off
+          .space
+            p.box-title.item Item
+            .dots
+              - 3.times do
+                = fa_icon('circle', text: 'Level')
+    .col-xs-6
+      .box
+        .box-panel.title-panel
+          .panel-mask
+            = image_tag("")
+          p.box-title = link_to 'food', root_path
+  .row
+    .col-xs-6
+      .box
+        .box-panel.title-panel
+          .panel-mask
+            = image_tag("")
+          p.box-title = link_to 'relax', root_path
+    .col-xs-6
+      .box
+        .box-panel.title-panel
+          .panel-mask
+            = image_tag("")
+          p.box-title = link_to 'entertainment', root_path
