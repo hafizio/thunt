@@ -1,17 +1,17 @@
 .container
   .row
-    .col-xs-6
+    .col-xs-12.col-md-6
       .box
         .box-panel.title-panel
           .panel-mask
             = image_tag("#{type}/0.jpg")
-          p.box-title.discount = @missions[0].reward
+          h3.box-title.discount = @missions[0].reward
           .space
             p.box-title.item = link_to @missions[0].title, mission_path(@missions[0])
             .dots
               - 3.times do
                 = fa_icon('circle', text: 'Level')
-    .col-xs-6
+    .col-xs-12.col-md-6
       .box
         .box-panel.title-panel
           .panel-mask
@@ -24,7 +24,7 @@
               - 3.times do
                 = fa_icon('circle', text: 'Level')
   .row
-    .col-xs-6
+    .col-xs-12.col-md-6
       .box
         .box-panel.title-panel
           .panel-mask
@@ -36,7 +36,7 @@
             .dots
               - 3.times do
                 = fa_icon('circle', text: 'Level')
-    .col-xs-6
+    .col-xs-12.col-md-6
       .box
         .box-panel.title-panel
           .panel-mask
@@ -48,7 +48,7 @@
               - 3.times do
                 = fa_icon('circle', text: 'Level')
   .row
-    .col-xs-6
+    .col-xs-12.col-md-6
       .box
         .box-panel.title-panel
           .panel-mask
@@ -59,7 +59,7 @@
             .dots
               - 3.times do
                 = fa_icon('circle', text: 'Level')
-    .col-xs-6
+    .col-xs-12.col-md-6
       .box
         .box-panel.title-panel
           .panel-mask

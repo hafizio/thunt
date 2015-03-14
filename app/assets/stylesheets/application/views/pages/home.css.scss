@@ -6,23 +6,23 @@
   margin-bottom: 30px;
   
   &#food {
-    background: #312429 image-url('page_food_bg.jpg') no-repeat center center;
+    background: #A60000 image-url('page_food_bg.jpg') no-repeat center center;
   }
 
   &#shopping {
-    background: #312429 image-url('logo_emirates.png') no-repeat center center;
+    background: #A60000 image-url('logo_emirates.png') no-repeat center center;
   }
 
   &#relaxation {
-    background: #312429 image-url('logo_emirates.png') no-repeat center center;
+    background: #A60000 image-url('logo_emirates.png') no-repeat center center;
   }
 
   &#entertainment {
-    background: #312429 image-url('logo_emirates.png') no-repeat center center;
+    background: #A60000 image-url('logo_emirates.png') no-repeat center center;
   }
 
   &#congratulation {
-    background: #312429 image-url('page_congratulation_bg.jpg') no-repeat center center;
+    background: #A60000 image-url('page_congratulation_bg.jpg') no-repeat center center;
   }
 
   &#mission {
@@ -57,6 +57,7 @@
 
       h1 {
         font-size: 80px;
+        font-family: 'Montserrat', sans-serif;
       }
     }
   }

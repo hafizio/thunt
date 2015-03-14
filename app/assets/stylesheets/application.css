@@ -19,7 +19,16 @@
  font-family: 'Raleway', sans-serif;
 }
 
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
 a:hover {
   text-decoration: none;
   opacity: 0.8;
+}
+
+.lg-font {
+  font-size: 70px;
+  font-family: 'Montserrat', sans-serif;
 }
