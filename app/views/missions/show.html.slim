@@ -9,5 +9,6 @@
       = render 'shared/takephoto'
     - if @mission.id == 21
       = render 'shared/radio'
-    = link_to 'Submit', confirmation_path(mission_id: @mission.id), class: 'btn btn-success btn-lg'
+    ul.list-inline
+      li = link_to 'Submit', confirmation_path(mission_id: @mission.id), class: 'btn btn-success'
   
