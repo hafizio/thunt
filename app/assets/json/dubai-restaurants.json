@@ -1,0 +1,1237 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 \{\
+  "data": [\
+    \{\
+      "phone": null,\
+      "cuisine": [\
+        \{\
+          "name": "international",\
+          "localized_name": "International"\
+        \}\
+      ],\
+      "percent_recommended": 86,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d2296006-m11068-Sadaf-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "maktom",\
+        "street2": "muragabat area",\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "maktom muragabat area, Dubai United Arab Emirates"\
+      \},\
+      "distance": ".00",\
+      "description": null,\
+      "name": "sadaf",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.1431",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d2296006-m11068-Sadaf-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d2296006-Reviews-m11068-Sadaf-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "2296006",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/2296006?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "23",\
+      "subcategory": [\
+        \{\
+          "name": "sit_down",\
+          "localized_name": "Sit down"\
+        \}\
+      ],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-11068-5.png",\
+      "bearing": "north",\
+      "latitude": "24.897787",\
+      "rating": "4.5",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#894 of 5,742 restaurants in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "5742",\
+        "ranking": "894"\
+      \}\
+    \},\
+    \{\
+      "phone": null,\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d1182136-m11068-Al_Malhan-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al-Satva",\
+        "street2": "",\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": "",\
+        "address_string": "Al-Satva, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Al-Malhan",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d1182136-m11068-Al_Malhan-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d1182136-Reviews-m11068-Al_Malhan-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "1182136",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/1182136?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-3312692",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3919603-m11068-King_of_Coffee-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Bada'a",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Bada'a, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "King of Coffee",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3919603-m11068-King_of_Coffee-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3919603-Reviews-m11068-King_of_Coffee-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3919603",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3919603?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "1",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-11068-5.png",\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": "3.0",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#3,052 of 5,742 restaurants in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "5742",\
+        "ranking": "3052"\
+      \}\
+    \},\
+    \{\
+      "phone": "04-2733403",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3925546-m11068-Golden_Crown_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Murar",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Murar, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Golden Crown Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3925546-m11068-Golden_Crown_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3925546-Reviews-m11068-Golden_Crown_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3925546",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3925546?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "1",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-11068-5.png",\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": "5.0",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#1,872 of 5,742 restaurants in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "5742",\
+        "ranking": "1872"\
+      \}\
+    \},\
+    \{\
+      "phone": "04-3318600",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3925004-m11068-Al_Tabaq_Al_Fiddi_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Satwa",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Satwa, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Al Tabaq Al Fiddi Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3925004-m11068-Al_Tabaq_Al_Fiddi_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3925004-Reviews-m11068-Al_Tabaq_Al_Fiddi_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3925004",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3925004?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-2730128",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3926218-m11068-Shams_Al_Sabah_Coffee_Shop-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Murar",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Murar, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Shams Al Sabah Coffee Shop",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3926218-m11068-Shams_Al_Sabah_Coffee_Shop-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3926218-Reviews-m11068-Shams_Al_Sabah_Coffee_Shop-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3926218",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3926218?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-2714949",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3926214-m11068-Shalimar_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Murar",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Murar, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Shalimar Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3926214-m11068-Shalimar_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3926214-Reviews-m11068-Shalimar_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3926214",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3926214?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-2711273",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3925012-m11068-Al_Taj_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Murar",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Murar, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Al Taj Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3925012-m11068-Al_Taj_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3925012-Reviews-m11068-Al_Taj_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3925012",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3925012?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-2715946",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3925030-m11068-Amba_Restaurant_Udupi-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Murar",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Murar, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Amba Restaurant - Udupi",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3925030-m11068-Amba_Restaurant_Udupi-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3925030-Reviews-m11068-Amba_Restaurant_Udupi-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3925030",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3925030?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "1",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-11068-5.png",\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": "4.0",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#2,512 of 5,742 restaurants in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "5742",\
+        "ranking": "2512"\
+      \}\
+    \},\
+    \{\
+      "phone": "04-3444043",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3920159-m11068-Picnic_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Bada'a",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Bada'a, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Picnic Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3920159-m11068-Picnic_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3920159-Reviews-m11068-Picnic_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3920159",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3920159?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "2",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-11068-5.png",\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": "4.5",\
+      "ranking_data": \{\
+        "geo_location_id": "295424",\
+        "ranking_string": "#2,174 of 5,742 restaurants in Dubai",\
+        "geo_location_name": "Dubai",\
+        "ranking_out_of": "5742",\
+        "ranking": "2174"\
+      \}\
+    \},\
+    \{\
+      "phone": "04-3290052",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3925028-m11068-Alsatwa_Garden_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Satwa",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Satwa, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Alsatwa Garden Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3925028-m11068-Alsatwa_Garden_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3925028-Reviews-m11068-Alsatwa_Garden_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3925028",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3925028?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-3445677",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3918577-m11068-Big_John_Grill_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Bada'a",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Bada'a, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Big John Grill & Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3918577-m11068-Big_John_Grill_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3918577-Reviews-m11068-Big_John_Grill_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3918577",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3918577?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-2712179",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3925057-m11068-Arafath_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Murar",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Murar, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Arafath Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3925057-m11068-Arafath_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3925057-Reviews-m11068-Arafath_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3925057",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3925057?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-2722922",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3925058-m11068-Arbi_Chicken_Cafeteria_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Murar",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Murar, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Arbi Chicken Cafeteria & Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3925058-m11068-Arbi_Chicken_Cafeteria_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3925058-Reviews-m11068-Arbi_Chicken_Cafeteria_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3925058",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3925058?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-2711621",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3925626-m11068-Ibrahim_Mohd_Sharif_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Murar",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Murar, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Ibrahim Mohd Sharif Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3925626-m11068-Ibrahim_Mohd_Sharif_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3925626-Reviews-m11068-Ibrahim_Mohd_Sharif_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3925626",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3925626?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-3449095",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3919525-m11068-Kerala_Society_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Bada'a",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Bada'a, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Kerala Society Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3919525-m11068-Kerala_Society_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3919525-Reviews-m11068-Kerala_Society_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3919525",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3919525?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-2717674",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3926155-m11068-Saleh_Al_Muttawa_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Murar",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Murar, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Saleh Al Muttawa Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3926155-m11068-Saleh_Al_Muttawa_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3926155-Reviews-m11068-Saleh_Al_Muttawa_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3926155",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3926155?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-2710532",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3926146-m11068-Saif_Al_Jazeera_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Murar",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Murar, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Saif Al Jazeera Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3926146-m11068-Saif_Al_Jazeera_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3926146-Reviews-m11068-Saif_Al_Jazeera_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3926146",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3926146?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-3291100",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3925622-m11068-Hyson_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Satwa",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Satwa, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Hyson Restaurant",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3925622-m11068-Hyson_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3925622-Reviews-m11068-Hyson_Restaurant-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3925622",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3925622?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \},\
+    \{\
+      "phone": "04-3458555",\
+      "cuisine": [],\
+      "percent_recommended": null,\
+      "location_string": "Dubai, Emirate of Dubai",\
+      "write_review": "http://www.tripadvisor.com/UserReview-g295424-d3920217-m11068-Point_Cafe-Dubai_Emirate_of_Dubai.html",\
+      "price_level": null,\
+      "address_obj": \{\
+        "street1": "Al Bada'a",\
+        "street2": null,\
+        "city": "Dubai",\
+        "state": "Emirate of Dubai",\
+        "country": "United Arab Emirates",\
+        "postalcode": null,\
+        "address_string": "Al Bada'a, Dubai United Arab Emirates"\
+      \},\
+      "distance": "3.43",\
+      "description": null,\
+      "name": "Point Cafe",\
+      "ancestors": [\
+        \{\
+          "abbrv": null,\
+          "level": "City",\
+          "name": "Dubai",\
+          "location_id": "295424"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Province",\
+          "name": "Emirate of Dubai",\
+          "location_id": "2630221"\
+        \},\
+        \{\
+          "abbrv": null,\
+          "level": "Country",\
+          "name": "United Arab Emirates",\
+          "location_id": "294012"\
+        \}\
+      ],\
+      "longitude": "55.19402",\
+      "see_all_photos": "http://www.tripadvisor.com/LocationPhotos-g295424-d3920217-m11068-Point_Cafe-Dubai_Emirate_of_Dubai.html",\
+      "website": null,\
+      "web_url": "http://www.tripadvisor.com/Restaurant_Review-g295424-d3920217-Reviews-m11068-Point_Cafe-Dubai_Emirate_of_Dubai.html",\
+      "location_id": "3920217",\
+      "api_detail_url": "http://api.tripadvisor.com/api/partner/2.0/location/3920217?key=SingaporeHack-CDCCADCA7505",\
+      "category": \{\
+        "name": "restaurant",\
+        "localized_name": "Restaurant"\
+      \},\
+      "email": null,\
+      "num_reviews": "0",\
+      "subcategory": [],\
+      "awards": [],\
+      "rating_image_url": null,\
+      "bearing": "east",\
+      "latitude": "24.87986",\
+      "rating": null,\
+      "ranking_data": null\
+    \}\
+  ],\
+  "paging": \{\
+    "previous": null,\
+    "skipped": "0",\
+    "results": "20",\
+    "next": null,\
+    "total_results": "20"\
+  \}\
+\}}
