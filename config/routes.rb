@@ -7,5 +7,6 @@ Rails.application.routes.draw do
   resources :shoppings, only: [:index, :show]
   resources :entertainments, only: [:index]
   resources :relaxation, only: [:index]
+  resources :missions, only: [:show]
 
 end
