@@ -25,6 +25,9 @@
     background: #312429 image-url('page_congratulation_bg.jpg') no-repeat center center;
   }
 
+  &#mission {
+    background: #312429 image-url('page_mission_bg.jpg') no-repeat center center;
+  }
   .cover-ol {
     position: absolute;
     background-color: #242731;
@@ -51,6 +54,10 @@
       vertical-align: middle;
       text-align: center;
       color: white;
+
+      h1 {
+        font-size: 80px;
+      }
     }
   }
 }
