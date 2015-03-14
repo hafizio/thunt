@@ -1,7 +1,7 @@
 = render 'shared/header', type: 'mission', title: "Mission: ##{@mission.id}", desc: 'Give it your best shot, Agent'
 .text-center
-  h3 = @mission.title
-  p = @mission.description
+  h3.montserrat = @mission.title
+  p.montserrat = @mission.description
   - if @mission.id == 15
     = render 'shared/takephoto'
   - if @mission.id == 21
