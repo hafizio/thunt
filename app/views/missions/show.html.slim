@@ -2,4 +2,7 @@
 .text-center
   h3 = @mission.title
   p = @mission.description
+  
+  - if @mission.id == 15
+    = render 'shared/takephoto'
   = link_to 'Submit', confirmation_path(mission_id: @mission.id), class: 'btn btn-default'
