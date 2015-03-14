@@ -1,9 +1,24 @@
 .cover-bg {
-  background: #312429 image-url('') no-repeat center center;
   position: relative;
   background-size: cover;
   height: 350px;
   margin-bottom: 30px;
+  
+  #foods {
+    background: #312429 image-url('logo_emirates.png') no-repeat center center;
+  }
+
+  #shopping {
+    background: #312429 image-url('logo_emirates.png') no-repeat center center;
+  }
+
+  #relax {
+    background: #312429 image-url('logo_emirates.png') no-repeat center center;
+  }
+
+  #entertainment {
+    background: #312429 image-url('logo_emirates.png') no-repeat center center;
+  }
 
   .cover-ol {
     position: absolute;
