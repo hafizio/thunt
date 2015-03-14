@@ -17,7 +17,7 @@
           .panel-mask
             = image_tag("#{type}/1.jpg")
             = image_tag("")
-          p.box-title.discount = @missions[1].reward
+          h3.box-title.discount = @missions[1].reward
           .space
             p.box-title.item = link_to @missions[1].title, mission_path(@missions[1])
             .dots
@@ -30,7 +30,7 @@
           .panel-mask
             = image_tag("#{type}/2.jpg")
             = image_tag("")
-          p.box-title.discount = @missions[2].reward
+          h3.box-title.discount = @missions[2].reward
           .space
             p.box-title.item = link_to @missions[2].title, mission_path(@missions[2])
             .dots
@@ -41,7 +41,7 @@
         .box-panel.title-panel
           .panel-mask
             = image_tag("#{type}/3.jpg")
-          p.box-title.discount = @missions[3].reward
+          h3.box-title.discount = @missions[3].reward
           .space
             p.box-title.item = link_to @missions[3].title, mission_path(@missions[3])
             .dots
@@ -53,7 +53,7 @@
         .box-panel.title-panel
           .panel-mask
             = image_tag("#{type}/4.jpg")
-          p.box-title.discount = @missions[4].reward
+          h3.box-title.discount = @missions[4].reward
           .space
             p.box-title.item = link_to @missions[4].title, mission_path(@missions[4])
             .dots
@@ -64,7 +64,7 @@
         .box-panel.title-panel
           .panel-mask
             = image_tag("#{type}/5.jpg")
-          p.box-title.discount = @missions[5].reward
+          h3.box-title.discount = @missions[5].reward
           .space
             p.box-title.item = link_to @missions[5].title, mission_path(@missions[5])
             .dots

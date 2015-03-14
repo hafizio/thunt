@@ -1,8 +1,8 @@
 = render 'shared/header', type: 'congratulation', title: "Success!", desc: "Show this to merchant"
 .text-center
-  h4 Congrats! You have earned
-  h5 = @mission.reward
-  p = @mission.reward_description
+  h4.montserrat Congrats! You have earned
+  h3.montserrat = @mission.reward
+  h4.montserrat = @mission.reward_description
   
   p Courtesy of
   h5 = @mission.merchant
