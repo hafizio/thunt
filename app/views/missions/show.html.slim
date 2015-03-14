@@ -4,7 +4,7 @@
     h1 Mission Details
     h3 = @mission.title
     h3 Questions
-    p = @mission.description
+    p = @mission.description.html_safe
     - if @mission.id == 15
       = render 'shared/takephoto'
     - if @mission.id == 21
