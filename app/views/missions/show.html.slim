@@ -1,29 +1,20 @@
 = render 'shared/header', type: 'mission', title: "Mission: ##{@mission.id}", desc: 'Give it your best shot, Agent'
-<<<<<<< HEAD
-.text-center
-	.container
-	  h3.montserrat = @mission.title
-	  p.montserrat = @mission.description
-	  - if @mission.id == 15
-	    = render 'shared/takephoto'
-	  - if @mission.id == 21
-	    = render 'shared/radio'
-	  = link_to 'Submit', confirmation_path(mission_id: @mission.id), class: 'btn btn-success'
-	.text-center
-	  h4 Sponsored Ads
-	  p Lorem Adsum
-=======
+
 .container
   .text-center
-    h1 Mission Details
-    h3 = @mission.title
-    h3 Questions
-    p = @mission.description.html_safe
+    h2.montserrat = @mission.title
+    .col-md-6.col-md-offset-3
+      .simple-box
+		    h3.montserrat Questions or Task
+		    p = @mission.description.html_safe
+    .col-md-6.col-md-offset-3
+	    h4.montserrat Required Time: 1-2 Hours
     - if @mission.id == 15
       = render 'shared/takephoto'
     - if @mission.id == 21
       = render 'shared/radio'
-    ul.list-inline
-      li = link_to 'Submit', confirmation_path(mission_id: @mission.id), class: 'btn btn-success'
->>>>>>> master
+    .col-md-6.col-md-offset-3
+	    ul.list-inline
+	      li = link_to 'Submit', confirmation_path(mission_id: @mission.id), class: 'btn btn-success btn-lg'
+
   
