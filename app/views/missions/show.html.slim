@@ -7,12 +7,14 @@
       .simple-box
 		    h3.montserrat Questions or Task
 		    p = @mission.description.html_safe
+      - if @mission.id == 15 || @mission.id ==  23
+        .simple-box
+          = render 'shared/takephoto'
+      - if @mission.id == 21
+        .simple-box
+          = render 'shared/radio'
     .col-md-6.col-md-offset-3
 	    h4.montserrat Required Time: 1-2 Hours
-    - if @mission.id == 15
-      = render 'shared/takephoto'
-    - if @mission.id == 21
-      = render 'shared/radio'
     .col-md-6.col-md-offset-3
 	    ul.list-inline
 	      li = link_to 'Submit', confirmation_path(mission_id: @mission.id), class: 'btn btn-success btn-lg'
