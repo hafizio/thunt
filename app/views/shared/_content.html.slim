@@ -1,25 +1,30 @@
 .container
   .row
-    .col-xs-6
+    .col-xs-12.col-md-6
       .box
         .box-panel.title-panel
           .panel-mask
             = image_tag("#{type}/0.jpg")
-          p.box-title.discount = @missions[0].reward
+          h3.box-title.discount = @missions[0].reward
           .space
             p.box-title.item = link_to @missions[0].title, mission_path(@missions[0])
             .dots
               - 2.times do
                 = fa_icon('circle', class: 'yellow')
               - 3.times do
+<<<<<<< HEAD
+                = fa_icon('circle', text: 'Level')
+    .col-xs-12.col-md-6
+=======
                 = fa_icon('circle', class: 'white')
     .col-xs-6
+>>>>>>> master
       .box
         .box-panel.title-panel
           .panel-mask
             = image_tag("#{type}/1.jpg")
             = image_tag("")
-          p.box-title.discount = @missions[1].reward
+          h3.box-title.discount = @missions[1].reward
           .space
             p.box-title.item = link_to @missions[1].title, mission_path(@missions[1])
             .dots
@@ -28,26 +33,32 @@
               - 2.times do
                 = fa_icon('circle', class: 'white')
   .row
-    .col-xs-6
+    .col-xs-12.col-md-6
       .box
         .box-panel.title-panel
           .panel-mask
             = image_tag("#{type}/2.jpg")
             = image_tag("")
-          p.box-title.discount = @missions[2].reward
+          h3.box-title.discount = @missions[2].reward
           .space
             p.box-title.item = link_to @missions[2].title, mission_path(@missions[2])
             .dots
+<<<<<<< HEAD
+              - 3.times do
+                = fa_icon('circle', text: 'Level')
+    .col-xs-12.col-md-6
+=======
               - 4.times do
                 = fa_icon('circle', class: 'red')
               - 1.times do
                 = fa_icon('circle', class: 'white')
     .col-xs-6
+>>>>>>> master
       .box
         .box-panel.title-panel
           .panel-mask
             = image_tag("#{type}/3.jpg")
-          p.box-title.discount = @missions[3].reward
+          h3.box-title.discount = @missions[3].reward
           .space
             p.box-title.item = link_to @missions[3].title, mission_path(@missions[3])
             .dots
@@ -56,25 +67,30 @@
               - 4.times do
                 = fa_icon('circle', class: 'white')
   .row
-    .col-xs-6
+    .col-xs-12.col-md-6
       .box
         .box-panel.title-panel
           .panel-mask
             = image_tag("#{type}/4.jpg")
-          p.box-title.discount = @missions[4].reward
+          h3.box-title.discount = @missions[4].reward
           .space
             p.box-title.item = link_to @missions[4].title, mission_path(@missions[4])
             .dots
               - 3.times do
+<<<<<<< HEAD
+                = fa_icon('circle', text: 'Level')
+    .col-xs-12.col-md-6
+=======
                 = fa_icon('circle', class: 'green')
               - 2.times do
                 = fa_icon('circle', class: 'white')
     .col-xs-6
+>>>>>>> master
       .box
         .box-panel.title-panel
           .panel-mask
             = image_tag("#{type}/5.jpg")
-          p.box-title.discount = @missions[5].reward
+          h3.box-title.discount = @missions[5].reward
           .space
             p.box-title.item = link_to @missions[5].title, mission_path(@missions[5])
             .dots

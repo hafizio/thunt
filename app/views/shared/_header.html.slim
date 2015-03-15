@@ -3,5 +3,6 @@
   .cover
     .content
       .container
-        h1 = title 
-        h3 = desc
+      = link_to image_tag('header_logo.png'), treasures_path
+      .lg-font.montserrat = title
+      p.montserrat = desc

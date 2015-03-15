@@ -2,31 +2,48 @@
   background: #312429 image-url('background.jpg') no-repeat center center;
   position: relative;
   background-size: cover;
-  height: 350px;
+  height: 250px;
   margin-bottom: 30px;
 
+<<<<<<< HEAD
+  &#home {
+    background: #312429 image-url('main_bg.jpg') no-repeat center center;
+    background-size: 1920px 1080px;
+    height: 1080px;
+    width: auto;
+
+    h1 {
+      margin-top: 0px;
+    }
+  }
+
+  &#treasures {
+    background: #202324;
+  }
+=======
   h1, h3 {
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
   }
 
+>>>>>>> master
   &#food {
-    background: #312429 image-url('page_food_bg.jpg') no-repeat center center;
+    background: #202324;
   }
 
   &#shopping {
-    background: #312429 image-url('logo_emirates.png') no-repeat center center;
+    background: #202324;
   }
 
   &#relaxation {
-    background: #312429 image-url('logo_emirates.png') no-repeat center center;
+    background: #202324;
   }
 
   &#entertainment {
-    background: #312429 image-url('logo_emirates.png') no-repeat center center;
+    background: #202324;
   }
 
   &#congratulation {
-    background: #312429 image-url('page_congratulation_bg.jpg') no-repeat center center;
+    background: #A60000 image-url('page_congratulation_bg.jpg') no-repeat center center;
   }
 
   &#mission {
@@ -48,12 +65,12 @@
     height: 364px;
     overflow: hidden;
     width: 100%;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 0px;
+    padding-bottom: 100px;
     z-index: 1000;
 
     .content {
-      min-width: 940px;
+      min-width: 100%;
       display: table-cell;
       vertical-align: middle;
       text-align: center;
@@ -61,6 +78,16 @@
 
       h1 {
         font-size: 80px;
+        font-family: 'Montserrat', sans-serif;
+      }
+
+      h2 {
+        font-size: 60px;
+        font-family: 'Montserrat', sans-serif;
+      }
+
+      .home {
+        margin-top: 50px;
       }
     }
   }

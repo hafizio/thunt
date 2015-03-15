@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+= render 'shared/header', type: 'congratulation', title: "Success!", desc: "Show this to merchant"
+.text-center
+  h4.montserrat Congrats! You have earned
+  h3.montserrat = @mission.reward
+  h4.montserrat = @mission.reward_description
+  
+  p Courtesy of
+  h5 = @mission.merchant
+=======
 = render 'shared/header', type: 'congratulation', title: "Confirmation", desc: "Show this to merchant"
 .container
   .text-center
@@ -9,6 +19,7 @@
         small Courtesy of #{@mission.merchant}
       ul.list-inline
         li = link_to 'Done', thanks_path, class: 'btn btn-primary'
+>>>>>>> master
 
 .social-media.text-center
   h5 Share with your friends
