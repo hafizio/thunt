@@ -1,4 +1,5 @@
 = render 'shared/header', type: 'mission', title: "Mission: ##{@mission.id}", desc: 'Give it your best shot, Agent'
+<<<<<<< HEAD
 .text-center
 	.container
 	  h3.montserrat = @mission.title
@@ -11,4 +12,18 @@
 	.text-center
 	  h4 Sponsored Ads
 	  p Lorem Adsum
+=======
+.container
+  .text-center
+    h1 Mission Details
+    h3 = @mission.title
+    h3 Questions
+    p = @mission.description.html_safe
+    - if @mission.id == 15
+      = render 'shared/takephoto'
+    - if @mission.id == 21
+      = render 'shared/radio'
+    ul.list-inline
+      li = link_to 'Submit', confirmation_path(mission_id: @mission.id), class: 'btn btn-success'
+>>>>>>> master
   

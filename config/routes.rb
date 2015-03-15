@@ -3,6 +3,7 @@ Rails.application.routes.draw do
 
   root 'pages#home'
   get 'treasures', to: 'pages#treasures',  as: 'treasures'
+  get 'thank-you', to: 'pages#thanks',  as: 'thanks'
   get 'confirmation', to: 'pages#confirmation',  as: 'confirmation'
 
   resources :foods, only: [:index]

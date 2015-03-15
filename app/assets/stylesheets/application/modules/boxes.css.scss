@@ -1,3 +1,12 @@
+.simple-box {
+  background-color: white;
+  border-radius: 3px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 15px;
+  border: 1px solid #e5e4e1;
+}
+
 .box {
   height: 280px;
   margin-bottom: 40px;
@@ -40,16 +49,12 @@
   padding-top: 40px;
 }
 
-//span.rating {
-  //unicode-bidi: bidi-override;
-  //direction: rtl;
-  //font-size: 30px;
-  
-  //bull
-//}
-
 .dots {
-  font-size: small;
+  font-size: large;
+
+  .fa {
+    padding: 5px;
+  }
 }
 
 .box-title {

@@ -1,7 +1,10 @@
 class PagesController < ApplicationController
-  layout 'homie', only: [:home]
+  layout 'homie', only: [:home, :thanks]
 
   def home
+  end
+
+  def thanks
   end
 
   def treasures
